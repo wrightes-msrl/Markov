@@ -2,7 +2,7 @@
 
 clear;clc;clf
 %% 
-% We'll begin by reviewing how we define a trnsition matrix for a markov model 
+% We'll begin by reviewing how we define a transition matrix for a markov model 
 % that describes successinon dynamics for each patch of land.  
 % 
 % Let $P(X_t=1)$, $P(X_t=2 )$, and $P(X_t=3 )$ represent the probabilities that 
